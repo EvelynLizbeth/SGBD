@@ -1,0 +1,18 @@
+Variable Record:
+ID: 2
+Campos:
+Offset: 0
+Longitud: 10
+Bitmap null: 00000000
+- Jane Smith
+
+Offset: 10
+Longitud: 6
+Bitmap null: 00000000
+- DDDDDD
+
+Offset: 16
+Longitud: 7
+Bitmap null: 00000000
+- 60000.0
+

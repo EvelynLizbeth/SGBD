@@ -1,0 +1,12 @@
+PassengerId#int#4
+Survived#int#4
+Pclass#int#4
+Name#char#60
+Sex#char#6
+Age#int#4
+SipSp#int#4
+Parch#int#4
+Ticket#char#20
+Fare#float#20
+Cabin#char#20
+Embarked#char#1
